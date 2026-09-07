@@ -1,7 +1,7 @@
 Item,Specs,Qty,Price,Source
 Libre Computer Renegade ROC-RK3328-CC,"RK3328 quad-core A53 @1.5GHz, 4GB DDR4, Gigabit Ethernet, 2x USB 2.0 + 1x USB 3.0, Mali-450 GPU",1,$65,LovRPi
 microSD card (OS drive),"32GB, trail camera branded",1,$6.32,AliExpress
-NVME,"128gb or 256gb, Pearl+ controller, 3D TLC NAND, up to 500MB/s read / 270MB/s write. Pre-owned, DoD 5220.22-M wiped, tested working",1,$25,eBay
+NVME,"128gb or 256gb,1,$25,eBay
 Yottamaster Dual-Protocol Enclosure,"M.2 SATA/NVMe, USB 3.1 Gen2, USB-C, aluminum alloy housing",1,$1.59,AliExpress
 Heatsink,Adhesive aluminum heatsink (chip + RAM),1,$1.92,AliExpress
 Fan,Small 5V DC fan,1,$5.87,AliExpress
