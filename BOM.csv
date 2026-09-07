@@ -1,0 +1,9 @@
+Item,Specs,Qty,Price,Source
+Libre Computer Renegade ROC-RK3328-CC,"RK3328 quad-core A53 @1.5GHz, 4GB DDR4, Gigabit Ethernet, 2x USB 2.0 + 1x USB 3.0, Mali-450 GPU",1,$65,LovRPi
+microSD card (OS drive),"32GB, trail camera branded",1,$6.32,AliExpress
+SK Hynix SC311 (HFS128G39TNF-N2A0A),"128GB M.2 2280 SATA III SSD, Pearl+ controller, 3D TLC NAND, up to 500MB/s read / 270MB/s write. Pre-owned, DoD 5220.22-M wiped, tested working",1,TBD,eBay
+Yottamaster Dual-Protocol Enclosure,"M.2 SATA/NVMe, USB 3.1 Gen2, USB-C, aluminum alloy housing",1,$1.59,AliExpress
+Heatsink,Adhesive aluminum heatsink (chip + RAM),1,$1.92,AliExpress
+Fan,Small 5V DC fan,1,$5.87,AliExpress
+Power Supply,"5V, 3A (15W)",1,$4.38,AliExpress
+Case,"3D printed, custom design",1,$0,3D printer
