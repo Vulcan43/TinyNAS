@@ -403,7 +403,9 @@ Use this for files that won't direct play.
  
 **Step 37: When to use this**
  
-If a file shows "Transcode" instead of "Direct Play," or you know in advance that a file has an incompatible audio codec, an unusual container, or subtitles you want burned in, convert it ahead of time instead of relying on live transcoding. Lower-power boards, including many small single-board computers, often lack reliable hardware transcoding support, so live transcoding tends to be slow.
+This step applies specifically to boards like the Renegade, which lack the hardware needed for smooth live transcoding. If you're using a computer with Intel Quick Sync or another hardware-accelerated setup that Jellyfin officially supports, you can skip this step entirely, since your hardware can transcode in real time without issue.
+
+If you went the budget board route like this guide does, follow this step. Boards like the Renegade can transcode video, just not fast enough to keep up with live playback. Pre-transcoding gets around this: instead of converting a file the moment you press play (which is what causes stuttering on weaker hardware), you convert it ahead of time, whenever it's convenient, so playback afterward is instant with no live conversion needed at all.
  
 **Step 38: Install ffmpeg**
 ```bash
