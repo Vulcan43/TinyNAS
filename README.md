@@ -23,5 +23,13 @@ Recently I turned my old Chromebook into a Batocera PC and hooked it up to my TV
 | Screw Driver Set | 31 in 1 | 1 | $4 | Aliexpress |
 | Shipping For All Parts | UPS Ground | All Iteams | $30-$20 | Shipping |
 
+# TinkerCAD Links
+
+[Case Part 1](https://www.tinkercad.com/things/kY8ZlgWvWQO-nas1?sharecode=HfBKOe0CxTPPSSCQodLMS2zGh056Kdx2ocbYhqNCetk)
+
+[Case Part 2](https://www.tinkercad.com/things/dPB2HErA5iJ-top2?sharecode=M9e2OClEoe7UGZ2HozPI_ij86-umL0XcME7nRUA5aUA)
+
+[Case Part 3](https://www.tinkercad.com/things/1OzcWgdNt2J-top?sharecode=DU88DYpPahFOi2X2Offvf8c7gB1xKLx4E81iABuVKqM)
+
 # TinyNAS
 This is a project on a tiny NAS build and 3d printed and cost under $150 perfect for someone new looking into NAS or home labs.
