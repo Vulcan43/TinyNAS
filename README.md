@@ -20,7 +20,6 @@ Recently I turned my old Chromebook into a Batocera PC and hooked it up to my TV
 | Fan | Small 5V DC fan | 1 | $5.87 | AliExpress |
 | Power Supply | 5V, 3A (15W) | 1 | $4.38 | AliExpress |
 | Case | 3D printed, custom design | 1 | $0 | 3D printer |
-| Screw Driver Set | 31 in 1 | 1 | $4 | Aliexpress |
 | VPN 1 month | IP safety | 1 | $1 | proton |
 | Shipping For All Parts | UPS Ground | All Iteams | $30-$20 | Shipping |
 
