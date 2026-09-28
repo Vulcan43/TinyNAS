@@ -1,3 +1,12 @@
+# Use a VPN
+
+Due to some people wanting to use your public ip against you I highly recommend using a vpn there are a few other reasons to use a vpn or safety and torrent overall i will use one for reasons of me not wanting this guild to be taken down for showing on hiding your ip in a torrent swarm I have decided not to add it but i would highly recommend doing some research and using the jellyfin community on how to add a vpn for safety overall it should e okay but not all the time.
+
+
+
+
+
+
 # I would like all people to read this so you fully understand why I recommend the libre pi and why I use it for this even though it is $65. And when I don't recommend it.
 
 
