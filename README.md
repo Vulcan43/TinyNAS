@@ -12,7 +12,7 @@ Recently I turned my old Chromebook into a Batocera PC and hooked it up to my TV
 
 | Item | Specs | Qty | Price | Source |
 | :--- | :--- | :--- | :--- | :--- |
-| Libre Computer Renegade ROC-RK3328-CC | RK3328 quad-core A53 @1.5GHz, 4GB DDR4, Gigabit Ethernet, 2x USB 2.0 + 1x USB 3.0, Mali-450 GPU | 1 | $65 | LovRPi |
+| Libre Computer Renegade ROC-RK3328-CC | RK3328 quad-core A53 @1.5GHz, 4GB DDR4, Gigabit Ethernet, 2x USB 2.0 + 1x USB 3.0, Mali-450 GPU | 1 | $65 | ebay |
 | microSD card (OS drive) | 32GB, trail camera branded | 1 | $6.32 | AliExpress |
 | NVME | 128gb or 256gb | 1 | $25 | eBay |
 | Yottamaster Dual-Protocol Enclosure | M.2 SATA/NVMe, USB 3.1 Gen2, USB-C, aluminum alloy housing | 1 | $1.59 | AliExpress |
@@ -21,6 +21,7 @@ Recently I turned my old Chromebook into a Batocera PC and hooked it up to my TV
 | Power Supply | 5V, 3A (15W) | 1 | $4.38 | AliExpress |
 | Case | 3D printed, custom design | 1 | $0 | 3D printer |
 | Screw Driver Set | 31 in 1 | 1 | $4 | Aliexpress |
+| VPN 1 month | IP safety | 1 | $1 | proton |
 | Shipping For All Parts | UPS Ground | All Iteams | $30-$20 | Shipping |
 
 # TinkerCAD Links
