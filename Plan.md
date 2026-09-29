@@ -469,3 +469,22 @@ Not everything needs it. Commands like ls, cd, docker ps, and cat somefile.txt w
  
 If you forget it, no harm done. You'll just see a "Permission denied" message. Re-run the same command with sudo in front of it.
  
+## Quick Reference: Monitoring
+ 
+Live CPU and memory use per container:
+```bash
+docker stats
+```
+ 
+Board temperature (divide the result by 1000 for Celsius):
+```bash
+cat /sys/class/thermal/thermal_zone0/temp
+```
+ 
+Network traffic broken down by app:
+```bash
+sudo apt install nethogs -y
+sudo nethogs
+```
+ 
+Jellyfin's own login and playback activity needs no extra tool. It's built in under Jellyfin's Dashboard, then Activity.
