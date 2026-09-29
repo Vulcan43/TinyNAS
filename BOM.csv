@@ -1,11 +1,11 @@
 Item,Specs,Qty,Price,Source
-Libre Computer Renegade ROC-RK3328-CC,"RK3328 quad-core A53 @1.5GHz, 4GB DDR4, Gigabit Ethernet, 2x USB 2.0 + 1x USB 3.0, Mali-450 GPU",1,$65,ebay
-microSD card (OS drive),"32GB, trail camera branded",1,$6.32,AliExpress
-NVME,128gb or 256gb,1,$25,eBay
-Yottamaster Dual-Protocol Enclosure,"M.2 SATA/NVMe, USB 3.1 Gen2, USB-C, aluminum alloy housing",1,$1.59,AliExpress
-Heatsink,"Adhesive aluminum heatsink (chip + RAM)",1,$1.92,AliExpress
-Fan,Small 5V DC fan,1,$5.87,AliExpress
-Power Supply,"5V, 3A (15W)",1,$4.38,AliExpress
-Case,"3D printed, custom design",1,$0,3D printer
-VPN,Hide IP,1 month ,$2,Protonvpn
-Shipping For All Parts,UPS Ground,All Iteams,$30-$20,Shipping
+Libre Computer Renegade ROC-RK3328-CC,"RK3328 quad-core A53 @1.5GHz, 4GB DDR4, Gigabit Ethernet, 2x USB 2.0 + 1x USB 3.0, Mali-450 GPU",1,$65,eBay
+microSD card (OS drive),"32GB, Kodak, V30 A1",1,$6.48,AliExpress
+SK Hynix M.2 SSD,"256GB, Used, fully tested, 80-99% health",1,$25.75,eBay
+Yottamaster Dual-Protocol Enclosure,"M.2 SATA/NVMe, USB 3.1 Gen2, USB-C, aluminum alloy housing, 5Gbps",1,$4.09,AliExpress
+Heatsink,"4-pack, adhesive aluminum, passive cooling",1,$1.99,AliExpress
+Fan,"4-pack, 3007 30x30x7mm, 5V",1,$6.19,AliExpress
+Power Supply,"5V, 3A, EU/US/AU/UK plug",1,$4.38,AliExpress
+Case,"3D printed, custom design",1,$15.20,3D printer
+VPN,"Hide IP, first month promo rate",1 month,$1.09,ProtonVPN
+Sales tax,"Tax charged on eBay order",1,$5.77,eBay
