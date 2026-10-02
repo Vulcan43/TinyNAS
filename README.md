@@ -19,9 +19,9 @@ Recently I turned my old Chromebook into a Batocera PC and hooked it up to my TV
 | **Heatsink** | 4-pack, adhesive aluminum, passive cooling | 1 | $1.99 | AliExpress |
 | **Fan** | 4-pack, 3007 30x30x7mm, 5V | 1 | $6.19 | AliExpress |
 | **Power Supply** | 5V, 3A, EU/US/AU/UK plug | 1 | $4.38 | AliExpress |
-| **Case** | 3D printed, custom design | 1 | $15.20 | 3D printer |
+| **Case** | 3D printed, custom design | 1 | Free | 3D printer |
 | **VPN** | Hide IP, first month promo rate | 1 mo | $1.09 | ProtonVPN |
-| **Sales tax** | Tax charged on eBay order | 1 | $5.77 | eBay |
+| **Tax** | Tax charged on eBay order | 1 | $5.77 | eBay |
 
 
 
